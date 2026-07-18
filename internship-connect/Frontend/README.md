@@ -107,5 +107,4 @@ Registration includes role-specific fields, such as student program and universi
 Does not contain any licence
 
 Copyright (C) 2025 JOSEPH MUKUKA. All rights reserved.
-
 No permission is granted to use, copy, modify, or distribute this software or any portion of it for any purpose without explicit written consent.
